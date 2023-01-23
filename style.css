@@ -34,8 +34,9 @@ main{
 }
 
 /*Text content*/
-#white-container{ margin: auto; 
-    padding: 0 0.5rem;
+#white-container{
+    margin: auto; 
+    padding: 1.688rem;
 }
 
 h1{
