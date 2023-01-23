@@ -139,6 +139,6 @@ button:active{ background-color: var(--dark-green); }
         border-bottom-left-radius: 0.7rem;
     }
 
-    #white-container{ grid-area: right; max-width: 34ch; }
+    #white-container{ grid-area: right; }
 
 }
